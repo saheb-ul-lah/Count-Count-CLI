@@ -1,6 +1,6 @@
 # Count-Count-CLI
 
-Hello there! 👋 I'm excited to share my very first CLI game project with you - Count-Count-CLI! I'm just getting started on my coding journey, and this project is a small step in my learning process.
+Hello there! 👋 I'm excited to share my very first CLI game project with you - Count-Count-CLI! I'm just getting started on my coding journey with GitHub, and this project is a small step in my learning process.
 
 ## About the Project
 
@@ -20,14 +20,14 @@ Before you begin, make sure you have a C compiler (like GCC) installed on your s
 
 ### Installation
 
-1. Clone this repository to your local machine:
-git clone https://github.com/your-username/Count-Count-CLI.git
+1. Clone this repository to your local machine:<br>
+git clone https://github.com/saheb-ul-lah/Count-Count-CLI.git
 
-2. Compile the source code:
+2. Compile the source code:<br>
 gcc main.c -o count_count
 
 
-3. Run the game:
+3. Run the game:<br>
 ./count_count
 
 
@@ -40,3 +40,5 @@ As a beginner, I'm eager to learn and improve my coding skills. If you have any 
 I want to express my gratitude to the open-source community for inspiring me to start this project. I'm also thankful for everyone who helps make this game better.
 
 Enjoy playing and happy counting! 🎮
+
+
