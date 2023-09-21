@@ -1490,7 +1490,7 @@ int main()
                                   4. Read word
                                   5. Read sentences
                                 */
-                    print_shape(2,level);
+                    print_shape(unit,level);
 					                   
                     // Now testing the user
                     int u_inp; //User's answer
