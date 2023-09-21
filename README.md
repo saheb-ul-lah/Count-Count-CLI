@@ -2,6 +2,8 @@
 
 Hello there! 👋 I'm excited to share my very first CLI game project with you - Count-Count-CLI! I'm just getting started on my coding journey with GitHub, and this project is a small step in my learning process.
 
+**Demo Video (Drive link)** : https://drive.google.com/file/d/1QSLOx1Wr5tMjwwF3Uhcb2V3c-eIYwv89/view?usp=drive_link
+
 ## About the Project
 
 Count-Count-CLI is a simple CLI (Command Line Interface) game that I built as a hobby project. It's designed to help you practice counting while having some fun. Here's what you can expect:
