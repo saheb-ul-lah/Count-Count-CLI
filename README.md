@@ -24,7 +24,7 @@ Before you begin, make sure you have a C compiler (like GCC) installed on your s
 git clone https://github.com/saheb-ul-lah/Count-Count-CLI.git
 
 2. Compile the source code:<br>
-gcc main.c -o count_count
+gcc count.c -o main./main
 
 
 3. Run the game:<br>
